@@ -5,7 +5,7 @@
 
 <div align=center>
 	<h1>📚 Tech Stack 📚</h1>
-	<h5> ⭐ I usually use it </h5>
+	<h3> ⭐ I usually use it </h3>
 	<p>🛠 Tools 🛠</p>
 </div>
 
@@ -15,7 +15,7 @@
 </div>
 
 <div align=center>
-	<h5> ⭐ I used it once </h5>
+	<h3> ⭐ I used it once </h3>
 	<p>🛠 Tools 🛠</p>
 </div>
 <div align=center>
