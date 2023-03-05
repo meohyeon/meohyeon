@@ -5,7 +5,8 @@
 
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
-	<p>🛠 Tools (I usually use it) 🛠</p>
+	<h5> ⭐ I usually use it </h5>
+	<p>🛠 Tools 🛠</p>
 </div>
 
 <div align=center>
@@ -14,7 +15,8 @@
 </div>
 
 <div align=center>
-	<p>🛠 Tools (I used it once) 🛠</p>
+	<h5> ⭐ I used it once </h5>
+	<p>🛠 Tools 🛠</p>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white"/>
