@@ -2,8 +2,9 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=meohyeon&github&fontSize=90" />	
 </div>
 
-<h3> ⌨️ Tech Stack </h3>
+
 <div align=center>
+	<h3> ⌨️ Tech Stack </h3>
 	<p>🛠 Tools (I usually use it) 🛠</p>
 </div>
 <div align=center>
