@@ -5,6 +5,8 @@
 
 <div align=center>
 	<h1>📚 Tech Stack 📚</h1>
+</div>
+<div align=center>
 	<p>🛠 Tools (I usually use it) 🛠</p>
 </div>
 <div align=center>
