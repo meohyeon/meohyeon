@@ -4,7 +4,7 @@
 
 
 <div align=center>
-	<h3>📚 Tech Stack 📚</h3>
+	<h1>📚 Tech Stack 📚</h1>
 	<h5> ⭐ I usually use it </h5>
 	<p>🛠 Tools 🛠</p>
 </div>
