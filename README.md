@@ -35,5 +35,5 @@
   
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sssdane)](https://solved.ac/sssdane/)
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=meohyeon&theme=buefy"/> 
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=meohyeon&theme=buefy"/> 
 </div>
