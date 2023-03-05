@@ -6,9 +6,12 @@
 <div align=center>
 	<h1>📚 Tech Stack 📚</h1>
 	<h3> ⭐ I usually use it ⭐</h3>
-	<p>🛠 Tools 🛠</p>
+	<p>✨ Skill ✨</p>
 </div>
 
+<div align=center>
+	<p>🛠 Tools 🛠</p>
+</div>
 <div align=center>
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
@@ -20,6 +23,10 @@
 	<br>
 	<br>
 	<h3> ⭐ I used it once ⭐</h3>
+	<p>✨ Skill ✨</p>
+</div>
+
+<div align=center>
 	<p>🛠 Tools 🛠</p>
 </div>
 <div align=center>
