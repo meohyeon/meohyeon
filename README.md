@@ -4,11 +4,10 @@
 
 
 <div align=center>
-	<h1>📚 Tech Stack 📚</h1>
-</div>
-<div align=center>
+	<h2>📚 Tech Stack 📚</h2>
 	<p>🛠 Tools (I usually use it) 🛠</p>
 </div>
+
 <div align=center>
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
