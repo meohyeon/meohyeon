@@ -1,3 +1,8 @@
+<br/>
+ 
+#### :pencil2: Study log
+ 
+  <br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sssdane)](https://solved.ac/sssdane/)
 
 
