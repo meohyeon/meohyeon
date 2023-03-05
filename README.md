@@ -35,7 +35,7 @@
 <div align="center"> 
 <br/>
  
-#### :pencil2: Study log :pencil2
+#### :pencil2: Study log
  
   <br/>
   
