@@ -3,7 +3,6 @@
 </div>
 
 
-
 <div align=center>
 	<h1>📚 Tech Stack 📚</h1>
 	<h3> ⭐ I usually use it ⭐</h3>
