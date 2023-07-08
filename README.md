@@ -2,7 +2,6 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=meohyeon&github&fontSize=90" />
 </div>
 
-
 <div align=center>
 	<h1>📚 Tech Stack 📚</h1>
 	<h3> ⭐ I usually use it ⭐</h3>
