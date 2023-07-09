@@ -60,6 +60,7 @@
 
 <div align="center"> 
 	<br>
+	
  	<h3> ✈️ Study Log ✈️</h3>
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sssdane)](https://solved.ac/sssdane/)
