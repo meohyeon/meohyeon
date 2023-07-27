@@ -59,7 +59,6 @@
 
 
 <div align="center"> 
-	
 	<br>
  	<h3> ✈️ Study Log ✈️</h3>
   
