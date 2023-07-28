@@ -61,8 +61,10 @@
 
 <div align="center"> 
 	<br>
+	<br>
+	<br>
 	
- 	<h3> ✈️ Study Log ✈️</h3>
+ 	<h3> ✈️ Study Logs ✈️</h3>
   
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sssdane)](https://solved.ac/sssdane/)
